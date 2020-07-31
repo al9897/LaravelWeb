@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron{
+    background-image: url(https://imgur.com/nJ7gWYS.jpg);
+    background-size: cover;
+    width: 100%;
+}
+
+.logo-text{
+    font-size: 2em;
+    font-style: bold;
+}
+
+.cart-item-image{
+    width: 50%;
+    height: 50%;
+}
